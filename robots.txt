@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kevinmurdockpremiermedical.com/sitemap.xml
